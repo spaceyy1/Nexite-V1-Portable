@@ -7,6 +7,7 @@ i prefer render bc its easier to deploy since i only listed the settings for ren
 this repo is completely open source, without ads. so any form of monetazation made of this brand will result in a copyright strike
 make sure to fork this repo if you want to make more updates to it, and also do it so u can deploy it
 
+
 # how to do it
 open render
 sign up or login
